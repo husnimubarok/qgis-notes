@@ -1,0 +1,35 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles referer="" zmin="0" password="" url="http://webst01.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;scale=1&amp;style=6&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="18" name="AutoNavi Satellite"/>
+    <xyztiles referer="" zmin="0" password="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1" authcfg="" username="" zmax="20" name="Bing Aerial"/>
+    <xyztiles referer="" zmin="0" password="" url="http://ecn.dynamic.t0.tiles.virtualearth.net/comp/CompositionHandler/{q}?mkt=en-us&amp;it=G,VE,BX,L,LA&amp;shading=hill" authcfg="" username="" zmax="20" name="Bing Map"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Boundaries Places"/>
+    <xyztiles referer="" zmin="0" password="" url="http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Gray (Dark)"/>
+    <xyztiles referer="" zmin="0" password="" url="http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Gray (Light)"/>
+    <xyztiles referer="" zmin="0" password="" url="http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="18" name="ESRI NatGeo"/>
+    <xyztiles referer="" zmin="0" password="" url="https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Ocean"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Physical"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Satellite"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Shaded Relief"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Standard"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Terrain"/>
+    <xyztiles referer="" zmin="0" password="" url="http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Topo"/>
+    <xyztiles referer="" zmin="0" password="" url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="ESRI Transportation"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=y&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Hybrid"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=h&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Road Only"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=s&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Satellite"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=m&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Streets"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Terrain"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=t&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Terrain Only"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt/lyrs=h@159000000,traffic|seconds_into_week:-1&amp;style=3&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Traffic"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt?lyrs=m@159000000,traffic|seconds_into_week:-1&amp;style=3&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Traffic Roadmap"/>
+    <xyztiles referer="" zmin="0" password="" url="https://mt0.google.com/vt?lyrs=s@159000000,traffic|seconds_into_week:-1&amp;style=3&amp;x={x}&amp;y={y}&amp;z={z}" authcfg="" username="" zmax="20" name="Google Traffic Satellite"/>
+    <xyztiles referer="" zmin="0" password="" url="http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png" authcfg="" username="" zmax="18" name="OSM Humanitarian Data Model"/>
+    <xyztiles referer="" zmin="0" password="" url="http://tile.openstreetmap.org/{z}/{x}/{y}.png" authcfg="" username="" zmax="20" name="Open Street Map"/>
+    <xyztiles referer="" zmin="0" password="" url="http://a.tile.openstreetmap.org/{z}/{x}/{y}.png" authcfg="" username="" zmax="19" name="OpenStreetMap"/>
+    <xyztiles referer="" zmin="0" password="" url="http://a.tile.stamen.com/terrain/{z}/{x}/{y}.png" authcfg="" username="" zmax="20" name="Stamen Terrain"/>
+    <xyztiles referer="" zmin="0" password="" url="http://a.tile.stamen.com/terrain-background/{z}/{x}/{y}.png" authcfg="" username="" zmax="20" name="Stamen Terrain Background"/>
+    <xyztiles referer="" zmin="0" password="" url="https://worldtiles3.waze.com/tiles/{z}/{x}/{y}.png" authcfg="" username="" zmax="20" name="Waze World"/>
+    <xyztiles referer="" zmin="0" password="" url="http://clipship2.big.go.id:6080/arcgis/rest/services/IGD/RupabumiIndonesia/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="20" name="IGD_RupabumiIndonesia"/>
+	<xyztiles referer="" zmin="0" password="" url="http://clipship2.big.go.id:6080/arcgis/rest/services/IGD/IGD_50K/MapServer/tile/{z}/{y}/{x}" authcfg="" username="" zmax="19" name="IGD_50K"/>
+</qgsXYZTilesConnections>
